@@ -85,8 +85,6 @@
 
 <br><br>
 
-✦ ───────────────────────────────────────── ✦
-
 <br>
 
 ## ୨୧ SELECTED WORK
@@ -233,7 +231,7 @@ Firebase backend integration.
   <b>VIEW ALL PROJECTS →</b>
 </a>
 
-<br><br>
+<br>
 
 ✦ ───────────────────────────────────────── ✦
 
@@ -247,45 +245,30 @@ Firebase backend integration.
 
 <br>
 
+<!-- GitHub Stats -->
 <img
-src="https://github-readme-stats.vercel.app/api?username=Pradnya1227&show_icons=true&hide_border=true&bg_color=090709&title_color=c084fc&text_color=f5f0f7&icon_color=67e8f9&rank_icon=github"
-height="170">
+  src="https://github-readme-stats.vercel.app/api?username=Pradnya1227&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=090709&title_color=c084fc&text_color=f5f0f7&icon_color=67e8f9&rank_icon=github"
+  height="170"
+  alt="Pradnya's GitHub Stats"
+/>
 
+<!-- GitHub Streak -->
 <img
-src="https://streak-stats.demolab.com?user=Pradnya1227&hide_border=true&background=090709&ring=c084fc&fire=ff6b9d&currStreakLabel=c084fc&sideLabels=f5f0f7&currStreakNum=f5f0f7&sideNums=f5f0f7&dates=918899"
-height="170">
+  src="https://streak-stats.demolab.com?user=Pradnya1227&hide_border=true&background=090709&ring=c084fc&fire=ff6b9d&currStreakLabel=c084fc&sideLabels=f5f0f7&currStreakNum=f5f0f7&sideNums=f5f0f7&dates=918899"
+  height="170"
+  alt="Pradnya's GitHub Streak"
+/>
 
 <br><br>
 
+<!-- Activity -->
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Pradnya1227&bg_color=090709&color=f5f0f7&line=c084fc&point=67e8f9&area=true&hide_border=true"
-width="92%">
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Pradnya1227&bg_color=090709&color=f5f0f7&line=c084fc&point=67e8f9&area=true&hide_border=true"
+  width="92%"
+  alt="GitHub Activity Graph"
+/>
 
 <br><br>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pradnya1227&theme=2077"
-width="92%">
-
-<br><br>
-
-✦ ───────────────────────────────────────── ✦
-
-<br>
-
-## ୨୧ CONTRIBUTION CONSTELLATION
-
-<p>
-  <i>every little square counts.</i>
-</p>
-
-<br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Pradnya1227&bg_color=090709&color=f5f0f7&line=ff6b9d&point=c084fc&area=true&hide_border=true"
-width="92%">
-
-<br>
 
 ✦ ───────────────────────────────────────── ✦
 
@@ -294,19 +277,24 @@ width="92%">
 ## ୨୧ CODING SIGNAL
 
 <p>
-  <i>languages that keep showing up in my commits</i>
+  <i>languages showing up across my repositories</i>
 </p>
 
 <br>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradnya1227&layout=compact&hide_border=true&bg_color=090709&title_color=ff6b9d&text_color=f5f0f7"
-height="170">
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradnya1227&layout=donut&langs_count=8&hide_border=true&bg_color=090709&title_color=ff6b9d&text_color=f5f0f7"
+  height="190"
+  alt="Most Used Languages"
+/>
 
 <br><br>
 
 <a href="https://leetcode.com/u/pradnyawakode27/">
-  <img src="https://img.shields.io/badge/LEETCODE-090709?style=for-the-badge&logo=leetcode&logoColor=f7b955">
+  <img
+    src="https://img.shields.io/badge/LEETCODE-090709?style=for-the-badge&logo=leetcode&logoColor=f7b955"
+    alt="LeetCode"
+  />
 </a>
 
 <br>
@@ -314,6 +302,75 @@ height="170">
 ✦ ───────────────────────────────────────── ✦
 
 <br>
+
+## ୨୧ CURRENTLY
+
+<table align="center" width="85%">
+<tr>
+
+<td align="center" width="33%">
+
+### ☁️
+
+<b>LEARNING</b>
+
+<br><br>
+
+Cloud Infrastructure<br>
+Distributed Systems<br>
+DevOps<br>
+System Design
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻
+
+<b>BUILDING</b>
+
+<br><br>
+
+Cloud-integrated software<br>
+Full-stack applications<br>
+Distributed systems
+
+</td>
+
+<td align="center" width="33%">
+
+### ✦
+
+<b>EXPLORING</b>
+
+<br><br>
+
+Scalable architecture<br>
+Cloud technologies<br>
+AI applications
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+✦ ───────────────────────────────────────── ✦
+
+<br>
+
+## ୨୧ PROFILE VISITORS
+
+<br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Pradnya1227&label=VISITORS&color=c084fc&style=for-the-badge"
+  alt="Profile visitors"
+/>
+
+<br><br>
+
 
 ## ୨୧ CURRENTLY
 
@@ -368,7 +425,6 @@ AI applications
 
 <br>
 
-✦ ───────────────────────────────────────── ✦
 
 <br>
 
@@ -380,8 +436,6 @@ AI applications
 src="https://komarev.com/ghpvc/?username=Pradnya1227&label=VISITORS&color=c084fc&style=for-the-badge">
 
 <br><br>
-
-✦ ───────────────────────────────────────── ✦
 
 <br><br>
 
